@@ -1,0 +1,6 @@
+{
+  "name": "Arcana Records OS",
+  "description": "Autonomous AI Record Label HQ with retro 2.5D isometric office, 4 autonomous agents (Miles, Nova, Lyra, Vance), interactive Mini DAW, and Suno/TuneCore pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
